@@ -1,0 +1,15 @@
+C:\Users\Gilles\Source\Repos\BatLine\Stuff\Games\WFinfo\WFinfo\bin\Debug\WFinfo Launcher.exe.config
+C:\Users\Gilles\Source\Repos\BatLine\Stuff\Games\WFinfo\WFinfo\bin\Debug\WFinfo Launcher.exe.manifest
+C:\Users\Gilles\Source\Repos\BatLine\Stuff\Games\WFinfo\WFinfo\bin\Debug\WFinfo Launcher.application
+C:\Users\Gilles\Source\Repos\BatLine\Stuff\Games\WFinfo\WFinfo\bin\Debug\WFinfo Launcher.exe
+C:\Users\Gilles\Source\Repos\BatLine\Stuff\Games\WFinfo\WFinfo\bin\Debug\WFinfo Launcher.pdb
+C:\Users\Gilles\Source\Repos\BatLine\Stuff\Games\WFinfo\WFinfo\obj\Debug\WFinfo.csprojAssemblyReference.cache
+C:\Users\Gilles\Source\Repos\BatLine\Stuff\Games\WFinfo\WFinfo\obj\Debug\WFinfo.frmMain.resources
+C:\Users\Gilles\Source\Repos\BatLine\Stuff\Games\WFinfo\WFinfo\obj\Debug\WFinfo.Properties.Resources.resources
+C:\Users\Gilles\Source\Repos\BatLine\Stuff\Games\WFinfo\WFinfo\obj\Debug\WFinfo.csproj.GenerateResource.cache
+C:\Users\Gilles\Source\Repos\BatLine\Stuff\Games\WFinfo\WFinfo\obj\Debug\WFinfo.csproj.CoreCompileInputs.cache
+C:\Users\Gilles\Source\Repos\BatLine\Stuff\Games\WFinfo\WFinfo\obj\Debug\WFinfo Launcher.TrustInfo.xml
+C:\Users\Gilles\Source\Repos\BatLine\Stuff\Games\WFinfo\WFinfo\obj\Debug\WFinfo Launcher.exe.manifest
+C:\Users\Gilles\Source\Repos\BatLine\Stuff\Games\WFinfo\WFinfo\obj\Debug\WFinfo Launcher.application
+C:\Users\Gilles\Source\Repos\BatLine\Stuff\Games\WFinfo\WFinfo\obj\Debug\WFinfo Launcher.exe
+C:\Users\Gilles\Source\Repos\BatLine\Stuff\Games\WFinfo\WFinfo\obj\Debug\WFinfo Launcher.pdb
